@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deniz\\source\\repos\\In-memory-CRUD-without-a-database\\CRUD-Operations-App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{510236A7-CAFD-4334-847F-8B4FCCC2A3A6}|CRUD-Operations-App\\CRUD-Operations-App.csproj|c:\\users\\deniz\\source\\repos\\in-memory-crud-without-a-database\\crud-operations-app\\crud-operations-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{510236A7-CAFD-4334-847F-8B4FCCC2A3A6}|CRUD-Operations-App\\CRUD-Operations-App.csproj|solutionrelative:crud-operations-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{510236A7-CAFD-4334-847F-8B4FCCC2A3A6}|CRUD-Operations-App\\CRUD-Operations-App.csproj|c:\\users\\deniz\\source\\repos\\in-memory-crud-without-a-database\\crud-operations-app\\crud-operations-app\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{510236A7-CAFD-4334-847F-8B4FCCC2A3A6}|CRUD-Operations-App\\CRUD-Operations-App.csproj|solutionrelative:crud-operations-app\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{510236A7-CAFD-4334-847F-8B4FCCC2A3A6}|CRUD-Operations-App\\CRUD-Operations-App.csproj|c:\\users\\deniz\\source\\repos\\in-memory-crud-without-a-database\\crud-operations-app\\crud-operations-app\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{510236A7-CAFD-4334-847F-8B4FCCC2A3A6}|CRUD-Operations-App\\CRUD-Operations-App.csproj|solutionrelative:crud-operations-app\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{510236A7-CAFD-4334-847F-8B4FCCC2A3A6}|CRUD-Operations-App\\CRUD-Operations-App.csproj|c:\\users\\deniz\\source\\repos\\in-memory-crud-without-a-database\\crud-operations-app\\crud-operations-app\\crud-operations-app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{510236A7-CAFD-4334-847F-8B4FCCC2A3A6}|CRUD-Operations-App\\CRUD-Operations-App.csproj|solutionrelative:crud-operations-app\\crud-operations-app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{510236A7-CAFD-4334-847F-8B4FCCC2A3A6}|CRUD-Operations-App\\CRUD-Operations-App.csproj|c:\\users\\deniz\\source\\repos\\in-memory-crud-without-a-database\\crud-operations-app\\crud-operations-app\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{510236A7-CAFD-4334-847F-8B4FCCC2A3A6}|CRUD-Operations-App\\CRUD-Operations-App.csproj|solutionrelative:crud-operations-app\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\In-memory-CRUD-without-a-database\\CRUD-Operations-App\\CRUD-Operations-App\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "CRUD-Operations-App\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\In-memory-CRUD-without-a-database\\CRUD-Operations-App\\CRUD-Operations-App\\Services\\BookService.cs",
+              "RelativeToolTip": "CRUD-Operations-App\\Services\\BookService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T13:45:22.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\In-memory-CRUD-without-a-database\\CRUD-Operations-App\\CRUD-Operations-App\\Services\\IBookService.cs",
+              "RelativeDocumentMoniker": "CRUD-Operations-App\\Services\\IBookService.cs",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\In-memory-CRUD-without-a-database\\CRUD-Operations-App\\CRUD-Operations-App\\Services\\IBookService.cs",
+              "RelativeToolTip": "CRUD-Operations-App\\Services\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T13:45:12.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\In-memory-CRUD-without-a-database\\CRUD-Operations-App\\CRUD-Operations-App\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "CRUD-Operations-App\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\In-memory-CRUD-without-a-database\\CRUD-Operations-App\\CRUD-Operations-App\\Models\\Book.cs",
+              "RelativeToolTip": "CRUD-Operations-App\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T13:44:58.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CRUD-Operations-App",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\In-memory-CRUD-without-a-database\\CRUD-Operations-App\\CRUD-Operations-App\\CRUD-Operations-App.csproj",
+              "RelativeDocumentMoniker": "CRUD-Operations-App\\CRUD-Operations-App.csproj",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\In-memory-CRUD-without-a-database\\CRUD-Operations-App\\CRUD-Operations-App\\CRUD-Operations-App.csproj",
+              "RelativeToolTip": "CRUD-Operations-App\\CRUD-Operations-App.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-17T13:44:07.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\In-memory-CRUD-without-a-database\\CRUD-Operations-App\\CRUD-Operations-App\\Program.cs",
+              "RelativeDocumentMoniker": "CRUD-Operations-App\\Program.cs",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\In-memory-CRUD-without-a-database\\CRUD-Operations-App\\CRUD-Operations-App\\Program.cs",
+              "RelativeToolTip": "CRUD-Operations-App\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T13:23:25.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
